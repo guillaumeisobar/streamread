@@ -22,15 +22,15 @@ cd ocr-processor-for-scanned-books
 
 2. **Install Required Libraries**
 
-streamlit
-opencv-python
-pytesseract
-Pillow
-numpy
+- streamlit
+- opencv-python
+- pytesseract
+- Pillow
+- numpy
 
 3. **Run the Application**
 
-streamlit run app.py
+streamlit run streamread.py
 
 ## Usage
 
