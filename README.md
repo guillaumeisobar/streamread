@@ -1,4 +1,4 @@
-# Streamread: anOCR Processor for Scanned Books
+# Streamread: an OCR Processor for Scanned Books
 
 This project is a Streamlit-based application designed to perform Optical Character Recognition (OCR) on scanned book pages. It allows users to upload images of book pages, adjust preprocessing settings, and then extract text using OCR. The project aims to provide an easy-to-use interface for digitizing text from physical rare books that are not available on common e-book or audio book platforms.
 
