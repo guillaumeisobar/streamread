@@ -38,7 +38,7 @@ After starting the application, navigate to `http://localhost:8501` in your web 
 
 1. **Upload Images**: Use the file uploader to select and upload the scanned images of book pages.
 2. **Adjust Settings**: Use the sliders in the sidebar to adjust preprocessing settings like scale factor, blur kernel size, and Otsu threshold value.
-3. **Set Split Lines**: If you have two-page layouts, adjust the split lines to separate left and right pages.
+3. **Set Split Lines**: adjust the split lines to separate left and right pages.
 4. **Start OCR**: Click on 'Start OCR Process' to begin text extraction.
 5. **Download Results**: After the OCR process completes, you can download the extracted text.
 
